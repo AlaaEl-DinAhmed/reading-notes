@@ -117,3 +117,101 @@
         - Has your manager delivered good feedback to you? Bad feedback? Any feedback at all?
 
         - Has your manager helped you set any work-related goals for this year?
+
+## Mentoring
+
+1. ### Being a Mentor
+
+   - If you find yourself in the mentor’s seat, congratulations! This is an experience that not everyone will get: an opportunity to learn in a fairly safe way about the job of management.
+   - It’s unlikely that you’ll get fired for being a bad mentor (unless, of course, you behave in an inappropriate manner—please don’t hit on your mentee!). For many mentors, the worst that can happen is that a) the mentee is a drain on their time and they get less coding work done, or b) they do such a poor job that someone whom the organization might otherwise want to hire/keep around has a bad experience and doesn’t join the organization, or opts to leave the organization sooner than she otherwise might.
+   - Great talent is sometimes squandered by weak mentors who do little but ignore their charges, waste their time with trivial projects, or, worst of all, intimidate and belittle them out of ever wanting to join the organization.
+
+   1. #### Mentoring an Intern
+
+   - The first type of mentorship relationship we’ll cover is the temporary employee.
+   - For most tech companies, this is a summer intern, some bright student still in the midst of earning a degree and looking to get some valuable experience by working for your company.
+   - The screening process for such students varies; many companies view these opportunities as a pipeline to hiring great talent straight out of college, but if you’re taking on someone who is more than a year from graduation, it’s more realistic to expect that the candidate will a) know very little, and b) probably go elsewhere next year for his internship unless he has an amazing experience. No pressure.
+   - So you find yourself mentoring a college student with little real experience. How can you make sure that his summer is awesome? Even if your company doesn’t love him, you want him to love you, because he’ll go back and tell all his friends about the summer he had working for your company. That can have a big impact on your ability to hire full-time from the graduating class, and the fact that you pulled interns from that school probably indicates a serious interest in hiring new graduates full-time as well.
+   - The first thing you need is some sort of project for this intern to work on. It would be nice if you, as the mentor, weren’t stuck coming up with the idea for this project, because doing so can be a daunting task. Without a project, your intern has a good chance of being completely lost and bored the entire summer.
+   - You have to have a project in mind—at least something to get him started for the first couple of weeks. If you’re truly drawing a blank, look at small features of your own current project that would take you a few days to complete, and start there.
+   - The intern’s first few days will be similar to those of any new hire: onboarding, getting used to the office, meeting people, learning the systems. Sit with him as much as possible these first few days. Get him started installing the IDE and checking out the code. Touch base several times a day to make sure he’s not feeling lost or overwhelmed by the volume of new information. In the meantime, prepare yourself for his project.
+   - Once you have a project, start applying your budding knowledge of project management to the task at hand. Is this project broken down into milestones? If not, spend a little time in the first few days of the intern’s tenure breaking it down. Walk through the breakdown with your intern. Does it make sense to him? Listen to his questions and answer them.
+   - Remember, you’re practicing skills that you will need should you decide in the future to become a manager. In this case, these skills are listening, communicating what needs to happen, and adjusting to his responses.
+
+     2. #### Listen carefully
+
+     - Listening is the first and most basic skill of managing people. Listening is a precursor to empathy, which is one of the core skills of a quality manager.
+     - One of the early lessons in leadership, whether it is via direct management or indirect influence, is that people are not good at saying precisely what they mean in a way that others can exactly understand.
+     - We have yet to achieve Borg hive mind or Vulcan mind meld, so we’re constantly pushing complex ideas through the eye of the needle of language. And language is not something that most engineers have mastered in nuance and interpretation. So listening goes beyond hearing the words your mentee is saying.
+     - Be prepared to say anything complex a few times, in different ways. If you feel that you don’t understand something your mentee has asked you, repeat the question in a different way. Let him correct you. Use those whiteboards scattered around your office, if necessary, to draw diagrams. Spend the time that you need to spend to feel understood, and like you understand the mentee. And remember that you’re in a position of huge power in your mentee’s eyes. He’s probably nervous about screwing this opportunity up, trying his best to please you, and trying hard not to look stupid. He may not ask questions even when he doesn’t understand things. Make your life easier and get those questions out of him.
+
+     3. #### Clearly communicate
+
+     - With that said, what if the intern does spend too much time asking you for help, without ever looking for help himself? Well, that gives you an opportunity to work on another management skill: communicating what needs to happen. If you expect him to do research on his own before asking you a question, tell him so! Ask him to explain a piece of code to you, or some product or process, and point him to the documents that you believe explain it.
+
+     4. #### Calibrate your response
+
+     - This brings us to the final management skill for you to practice: adjusting to the intern’s responses.
+     - So many things can happen in the course of this mentoring relationship. He can far outstrip your expectations. He can struggle with simple tasks. He can produce work very quickly, but it’s of poor quality, or he can work very slowly to produce something that’s overly perfect. In the first few weeks of the internship, you’re learning the frequency that you need to check in with him to provide the right adjustments. It may be once a week. It may be once a day. It may be less frequently than once a week, but I would recommend trying to check in once a week regardless, and spending any extra time as an additional interview/sell cycle for the company.
+
+   2. ### Mentoring a New Hire
+
+      - Mentoring new hires is critical. Your job as a new hire mentor consists of onboarding, helping this person adjust to life in the company effectively, and building your and her network of contacts in the company. It can be an easier job than mentoring an intern, but the relationship and mentoring will usually go on for a lot longer.
+      - This is an opportunity for you to see the world of your company through fresh eyes. It can be hard to remember what it was like to experience your world for the first time. How does work get done? What are the rules, spoken and unspoken? For example, you may have a standard vacation policy in the HR handbook; this is a spoken rule. The unspoken rule is that you don’t take vacation the week after Thanksgiving because you’re in ecommerce and that’s an important week for the business.
+      - Effective teams have good onboarding documents they provide to new hires. Things like step-by-step guides to setting up their development environments, learning how tracking systems work, and familiarizing themselves with the tools they will need for the job are crucial for new hires. These documents should constantly evolve to meet the changes of the workplace itself.
+      - Mentoring a new hire by helping her work through the documents, and having her modify those documents with any surprises she encounters during onboarding, provides a powerful message of commitment to her. It shows her that she has the power and obligation to learn, and to share what she’s learned for the benefit of your whole team.
+      - Part of the mentoring opportunity here is the chance to introduce the new person around. Companies are full of human networks that exist to transmit knowledge and information quickly. Bringing this person into some of your networks will help her get up to speed faster, and it will give you a new entree into whatever networks she ends up forming and joining in her time with the company.
+      - Even if you have absolutely no interest in management, it’s very difficult to build a career at any company with multiple teams without building a strong network of trusted people to share information and ideas with.
+      - The workplace is built around humans and their interactions, and these networks form the basis of any career, whether it’s focused around management or individual technical contributions. You may be an introvert, or someone who does not find socializing easy, but conscious effort and practice in getting to know new people and helping them succeed will pay off.
+
+   3. ### Technical or Career Mentoring
+
+   - Many companies run formal mentoring programs where they match people up across teams, and while these programs can sometimes enhance networks, they are often an ambiguous obligation for both the mentor and the mentee. If you find yourself in one of these relationships, the best thing you can do is be specific about your expectations and goals around it.
+
+     1. #### When you are a mentor
+
+        - Tell your mentee what you expect from him. If you want him to come prepared for your meetings with questions he has sent you in advance, ask for that. Be explicit about your time commitment. And then be honest with him when he asks questions.
+        - It’s also OK to say no to mentoring. Sometimes you can feel obligated to say yes to every person who asks you for help, but your time is valuable. Don’t do it unless you think it will be rewarding for you and the person you’re mentoring. If someone asks you to be his mentor and you can’t accept, it’s best just to say that you can’t do it. Don’t feel like you must give him a reason just because he asked.
+
+     2. #### When you are a mentee
+        - Think about what you want to get out of this relationship, and come prepared to your sessions. This advice is especially relevant if you’re getting mentorship from someone outside of your company, who is not being paid but is volunteering as a friendly gesture. You owe it to this person not to waste her time. If you don’t have the time to prepare or don’t feel that preparation is necessary, ask yourself whether the mentoring relationship is really something you need at all.
+
+2. ### Good Manager, Bad Manager: The Alpha Geek
+
+3. ### Tips for the Manager of a Mentor
+
+   - What you measure, you improve. As a manager you help your team succeed by creating clear, focused, measurable goals. So often, we fail to apply this basic wisdom to the process of assigning mentors, but it applies here as much as anywhere else.
+   - When you need to assign a mentor for your new hire or intern, figure out what you’re hoping to achieve by creating the relationship. Then, find the person who can help meet those goals.
+   - If the mentor is not engaged or is too busy to spend any time on this project, it’s a disappointment for the mentee. If the mentee doesn’t know how to ask for help or what to do with the mentoring relationship, it often feels like forced socializing and a waste of time for both parties. So if your company is setting up mentoring programs outside of new hires and interns, try to make sure that there is some guidance and structure to the program before you push people into it.
+   - Secondly, recognize that this is an additional responsibility for the mentor. If the mentor does a good job, her productivity may slow down some during the mentoring period. If you’ve got an engineer involved in a time-sensitive project, you may not want to push him into mentoring at the same time. Because this is an additional responsibility, treat it as you would any other important additional responsibility you might hand out. Look for someone that you believe can succeed in the role, and who wants to distinguish herself beyond her coding ability.
+
+   - It’s assumed to be something that should just be provided without financial recognition. I’m not suggesting that you should pay people extra money to serve as mentors, but they need to be recognized for the work they put in, and the mentor should be treated as a first-class citizen with respect to other responsibilities the person might have. As I said before, plan for it, and provide the mentor the time to do the job right.
+
+   - Finally, use this opportunity to reward and train future leaders on your team. As you know by now, leadership requires human interaction to exist. Developing patience and empathy is an important part of the career path of anyone working in a team-based environment. Brilliant, introverted developers may not ever want to formally manage, but encouraging them to mentor 1-1 helps them develop stronger external perspectives, not to mention their own networks.
+
+4. ### Key Takeaways for the Mentor
+
+   - It’s important to focus on three actions for yourself as a mentor:
+
+     - Be Curious and Open-Minded
+
+       - As you grow in your career, you’ll experience a lot of teachable moments, a lot of lessons in how things should or should not be. These can be “best practices,” or scars caused by mistakes. This unconscious buildup can cloud our thinking and reduce our creativity. When we close our minds and stop learning, we start to lose the most valuable skill for maintaining and growing a successful technical career. Technology is always changing around us, so we must continually experience that change.
+       - Mentoring provides a great opportunity to cultivate curiosity and see the world through fresh eyes. When faced with a mentee’s questions, you can start to observe what about your organization is not so obvious to a new person. You might find areas you thought you understood but cannot explain clearly.
+
+     - Listen and Speak Their Language
+
+       - Mentoring, when done well, starts to shape the skills every future leader needs. Even for those who won’t go on to make management their career, there are clear benefits to taking some time to mentor and learn from the experience, because mentoring forces you to hone your communication skills. It requires you to practice listening, in particular, because if you can’t hear the questions you’re being asked, you’ll never be able to provide good answers.
+       - To work successfully with a newcomer or a more junior teammate, you must be able to listen and communicate in a way that person can understand, even if you have to try several times to get it right. Software development is a team sport in most companies, and teams have to communicate effectively to get anything done.
+
+     - Make Connections
+       - Your career ultimately succeeds or fails on the strength of your network. Mentoring is a great way to build this network. You never know—the person you mentor could provide the introduction to your next job, or even come work for you in the future. On the flip side, don’t abuse the mentoring relationship. Whether you’re in the mentor’s seat or acting as the mentee, remember that your career is long and the tech world can be very small, so treat the other person well.
+
+5. ### Assessing Your Own Experience
+
+   - Here are some questions to consider as you develop this part of your career:
+
+     - Does your company have an internship program? If so, can you volunteer to mentor an intern?
+     - How does your company think about onboarding? Do you assign mentors to new hires? If not, can you propose to your manager that you try doing this, and volunteer to mentor someone?
+     - Have you ever had a great mentor? What did that person do that made you think he or she was great? How did the mentor help you learn—what did he or she teach you?
+
+     - Have you ever had a mentoring relationship that didn’t work out? Why didn’t it work out? What lessons about that experience can you apply to avoid similar failures going forward?
